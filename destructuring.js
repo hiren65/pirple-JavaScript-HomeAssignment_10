@@ -13,6 +13,7 @@
  information kept inside, assigned in to many variables in bunch for our use and ease to
  deal further.
  */
+//Object destructuring assignment uses an object literal pattern on the left hand side of an assignment operation.
 //destructuring data from arrays is simple and made it more easy in ES6
 //SEE HERE IS BASIC EXAMPLE below for Array
 var introduction = ["My", "Name" , "is ", "Patel"];
